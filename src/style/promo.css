@@ -1,0 +1,171 @@
+.main-color {
+    background-color: #FCEED8;
+}
+
+.main-font-color {
+    color: #FEFFFF;
+}
+
+.hovered-card {
+    transition: 0.5s;
+}
+
+.hovered-card:hover {
+    transform: scale(1.1);
+}
+
+.second-font-color {
+    color: #d88e35;
+}
+
+/* Bagian Main */
+/* Bagian Banner Main */
+.banner {
+    height: 650px;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(https://th.bing.com/th/id/R.5728a97f2137655ecc4ce86293b8479a?rik=iWhaL%2b5IWCf%2fRA&riu=http%3a%2f%2fwww.puzzlemobi.com%2fthanksgiving%2fimages%2fpuzzle%2fcafe-latte-and-cake.jpg&ehk=m7CA69cs4qwaG0UBu5Cui7I01RBAuRzH30EWEYPU5D0%3d&risl=&pid=ImgRaw&r=0);
+    background-position: center;
+    background-size: cover;
+}
+
+.p-title {
+    font-size: 25px;
+}
+
+/* Bagian Promo */
+.btn-promo {
+    border: 1px solid #d88e35;
+    background-color: transparent;
+    color: #d88e35;
+    width: auto;
+}
+
+.btn-promo:hover {
+    background-color: #d88e35;
+    color: white;
+}
+
+.active-btn {
+    background-color: #d88e35;
+    color: white;
+}
+
+.active-btn:hover {
+    color: white;
+}
+
+/* Bagian Footer */
+.contact-bgColor {
+    background-color: #d06550;
+    /* background-color:  #D88E35; */
+}
+
+.contact-icon {
+    font-size: 24px;
+}
+
+.contact-footer {
+    background-color: #D88E35;
+}
+
+.footer-bgColor {
+    background-color:  #D88E35;
+}
+
+@media screen and (max-width: 768px) {
+    /* Bagian Nav */
+    .navbar-nav {
+        margin: 0 10px;
+    }
+
+    /* Bagian Banner */
+    .p-title {
+        font-size: 22px;
+    }
+}
+
+/* Untuk Smartphone */
+@media screen and (max-width: 576px) {
+    /* Bagian Banner */
+    .banner {
+        height: 840px;
+    }
+
+    .h1-title {
+        font-size: 60px;
+    }
+
+    /* Bagian Promo */
+    .btn {
+        margin-bottom: 5px;
+    }
+
+    /* Bagian Footer */
+    .footer-bgColor label {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .banner {
+        height: 830px;
+    }
+
+    .h1-title {
+        font-size: 53px;
+    }
+}
+
+/* Untuk Layar hp seperti Redmi note 8 */
+@media screen and (max-width: 400px) {
+    .h1-title {
+        font-size: 45px;
+    }
+
+    .p-title {
+        font-size: 18px;
+    }
+
+    /* Bagian Footer */
+    .footer-bgColor label {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .banner {
+        height: 750px;
+    }
+
+    .h1-title {
+        font-size: 38px;
+    }
+
+    .p-title {
+        font-size: 16px;
+    }
+
+    /* Bagian Footer */
+    .footer-bgColor label {
+        font-size: 11px;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .banner {
+        height: 700px;
+    }
+
+    .h1-title {
+        font-size: 30px;
+    }
+
+    .p-title {
+        font-size: 15px;
+    }
+
+    /* Bagian Footer */
+    .footer-bgColor label {
+        font-size: 9px;
+    }
+}
+

@@ -1,0 +1,90 @@
+.main-color {
+    background-color: #FCEED8;
+}
+
+.main-font-color {
+    color: #FEFFFF;
+}
+
+.second-font-color {
+    color: #d88e35;
+}
+
+.third-font-color {
+    color: #d06550;
+}
+
+/* Bagian Detail Product */
+.img-detail {
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+
+.btn-product {
+    border: 1px solid #d88e35;
+    background-color: transparent;
+    color: #d88e35;
+    width: auto;
+}
+
+.btn-product:hover {
+    background-color: #d88e35;
+    color: white;
+}
+
+/* Bagian Recomended */
+.img-item{
+    border-radius: 7px;
+}
+
+/* Bagian Footer */
+.contact-bgColor {
+    background-color: #d06550;
+    /* background-color:  #D88E35; */
+}
+
+.contact-icon {
+    font-size: 24px;
+}
+
+.contact-footer {
+    background-color: #D88E35;
+}
+
+.footer-bgColor {
+    background-color:  #D88E35;
+}
+
+/* Bagian Responsive */
+@media screen and (max-width: 576px) {
+    /* Bagian Recomended */
+    .img-fluid {
+        margin-bottom: 20px;
+    }
+
+    /* Bagian Footer */
+    .footer-bgColor label {
+        font-size: 15px;
+    }
+}
+
+/* Untuk Layar hp seperti Redmi note 8 */
+@media screen and (max-width: 400px) {
+    /* Bagian Footer */
+    .footer-bgColor label {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    /* Bagian Footer */
+    .footer-bgColor label {
+        font-size: 11px;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    /* Bagian Footer */
+    .footer-bgColor label {
+        font-size: 9px;
+    }
+}
