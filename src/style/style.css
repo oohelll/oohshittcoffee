@@ -29,6 +29,7 @@
 
 .p-title {
     font-size: 25px;
+    margin-bottom: 30px;
 }
 
 .btn-customs {
@@ -112,6 +113,16 @@
     .p-title {
         font-size: 22px;
     }
+
+    /* Bagian Promo */
+    .card-text {
+        font-size: 14px;
+    }
+
+    /* Bagian Service Main */
+    .service-card {
+        margin-bottom: 25px;
+    }
 }
 
 /* Untuk Smartphone */
@@ -124,11 +135,42 @@
         font-size: 60px;
     }
 
+    /* Bagian Promo */
+    .promo-title {
+        font-size: 30px;
+    }
+
+    .card-title {
+        font-size: 25px;
+    }
+    .card-text {
+        font-size: 18px;
+    }
+
+    .promo-btn {
+        padding: 10px 24px;
+        font-size: 18px;
+    }
+
+    /* Bagian Service Main */
+    .service-title {
+        font-size: 30px;
+    }
+
+    .service-content h5 {
+        font-size: 25px;
+    }
+
+    .service-content p {
+        font-size: 18px;
+    }
+
     /* Bagian Footer */
     .footer-bgColor label {
         font-size: 15px;
     }
 }
+
 
 @media screen and (max-width: 450px) {
     .banner {
@@ -137,6 +179,19 @@
 
     .h1-title {
         font-size: 53px;
+    }
+
+    /* Bagian Service Main */
+    .service-title {
+        font-size: 28px;
+    }
+
+    .service-content h5 {
+        font-size: 23px;
+    }
+
+    .service-content p {
+        font-size: 16px;
     }
 }
 
@@ -148,6 +203,25 @@
 
     .p-title {
         font-size: 18px;
+    }
+
+    /* Bagian Promo */
+    .promo-title {
+        font-size: 25px;
+    }
+
+    .card-text {
+        font-size: 16px;
+    }
+
+    .promo-btn {
+        padding: 8px 22px;
+        font-size: 16px;
+    }
+
+    /* Bagian Service Main */
+    .service-title {
+        font-size: 25px;
     }
 
     /* Bagian Footer */
@@ -169,6 +243,11 @@
         font-size: 17px;
     }
 
+    /* Bagian Service Main */
+    .service-content p {
+        font-size: 14px;
+    }
+
     /* Bagian Footer */
     .footer-bgColor label {
         font-size: 11px;
@@ -186,6 +265,24 @@
 
     .p-title {
         font-size: 15px;
+    }
+
+    /* Bagian Promo */
+    .card-title {
+        font-size: 20px;
+    }
+    .card-text {
+        font-size: 15px;
+    }
+
+    .promo-btn {
+        padding: 7px 17px;
+        font-size: 15px;
+    }
+
+    /* Bagian Service Main */
+    .service-content h5 {
+        font-size: 21px;
     }
 
     /* Bagian Footer */
