@@ -81,6 +81,12 @@
     .p-title {
         font-size: 22px;
     }
+
+    /* Bagian Promo */
+    .card-text {
+        font-size: 14px;
+    }
+
 }
 
 /* Untuk Smartphone */
@@ -96,12 +102,24 @@
 
     /* Bagian Promo */
     .btn {
-        margin-bottom: 5px;
+        margin-bottom: 10px;
+    }
+
+    .card-title {
+        font-size: 25px;
+    }
+
+    .card-text {
+        font-size: 18px;
     }
 
     /* Bagian Footer */
     .footer-bgColor label {
         font-size: 15px;
+    }
+
+    .form-control {
+        height: 39px;
     }
 }
 
@@ -123,6 +141,15 @@
 
     .p-title {
         font-size: 18px;
+    }
+
+    /* Bagian Promo */
+    .card-title {
+        font-size: 22px;
+    }
+
+    .card-text {
+        font-size: 16px;
     }
 
     /* Bagian Footer */
@@ -160,6 +187,15 @@
     }
 
     .p-title {
+        font-size: 15px;
+    }
+
+    /* Bagian Promo */
+    .card-title {
+        font-size: 20px;
+    }
+
+    .card-text {
         font-size: 15px;
     }
 

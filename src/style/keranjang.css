@@ -32,3 +32,10 @@
     border: 1px solid rgba(0, 0, 0, 0.021);
     background-color: #D88E35;
 }
+
+@media screen and (max-width: 768px) {
+    /* Bagian Nav */
+    .navbar-nav {
+        margin: 0 10px;
+    }
+}

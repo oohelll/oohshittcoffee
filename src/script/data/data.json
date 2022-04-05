@@ -69,5 +69,79 @@
             "price" : "Rp 30.000",
             "img" : "https://burmaspice.com/wp-content/uploads/2018/08/Japanese_Fried_Rice.jpg"
         }
+    ],
+    "Products" : [
+        {
+            "dataBs" : "#friedRice",
+            "id" : "friedRice",
+            "name" : "Fried Rice",
+            "cardText" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "price": "Rp 30.000",
+            "img" : "https://burmaspice.com/wp-content/uploads/2018/08/Japanese_Fried_Rice.jpg"
+        },
+        {
+            "dataBs" : "#frenchFries",
+            "id" : "frenchFries",
+            "name" : "French Fries",
+            "cardText" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "price": "Rp 10.000",
+            "img" : "https://pixel.nymag.com/imgs/daily/grub/2016/best-of-new-york/best-french-fries-houseman.w700.h700.jpg"
+        },
+        {
+            "dataBs" : "#burger",
+            "id" : "burger",
+            "name" : "Burger",
+            "cardText" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "price": "Rp 45.000",
+            "img" : "https://th.bing.com/th/id/OIP.gkxgFPFg5d3Hn8MVk58oowHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "dataBs" : "#pizzaMargaretha",
+            "id" : "pizzaMargaretha",
+            "name" : "Pizza Margaretha",
+            "cardText" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "price": "Rp 80.000",
+            "img" : "https://th.bing.com/th/id/R.8e5dbab78ed588f9b72d528d52127b26?rik=ZnP%2fLNSJDOVTag&riu=http%3a%2f%2fredonline.cdnds.net%2fmain%2fthumbs%2f25905%2fpizza.jpg&ehk=2r61BnheYq7N2XPtIfpvKw9wQzuQm0qMW%2fG2UlCkiTQ%3d&risl=&pid=ImgRaw&r=0"
+        },
+        {
+            "dataBs" : "#pizzaMushroom",
+            "id" : "pizzaMushroom",
+            "name" : "Mushroom Pizza",
+            "cardText" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "price": "Rp 100.000",
+            "img" : "https://stadiumpizzas.com/wp-content/uploads/2020/09/mexican-768x766.jpg"
+        },
+        {
+            "dataBs" : "#pizzaBrocolini",
+            "id" : "pizzaBrocolini",
+            "name" : "Brocolini Pizza",
+            "cardText" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "price": "Rp 95.000",
+            "img" : "https://th.bing.com/th/id/OIP.0GtIiAr4BXFABm8cafp8VwHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "dataBs" : "#coffeeLatte",
+            "id" : "coffeeLatte",
+            "name" : "Coffee Latte",
+            "cardText" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "price": "Rp 35.000",
+            "img" : "https://www.bermberm.com/wp-content/uploads/2018/09/Cafe-latte-Berm-Berm-Coffees-768x768.jpg"
+        },        
+        {
+            "dataBs" : "#mexicanCoffee",
+            "id" : "mexicanCoffee",
+            "name" : "Mexican Coffee",
+            "cardText" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "price": "Rp 25.000",
+            "img" : "https://hoorray-storage-prod.s3.amazonaws.com/images/recipes/a870b520-611e-11e5-bc6b-3da031c05a19-large"
+        },        
+        {
+            "dataBs" : "#espresso",
+            "id" : "espresso",
+            "name" : "Espresso",
+            "cardText" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "price": "Rp 15.000",
+            "img" : "https://cdn-img.instyle.com/sites/default/files/styles/684xflex/public/images/2015/10/101415-fwx-bitter-coffee.jpg?itok=NYFkWeSR"
+        }
     ]
 }
