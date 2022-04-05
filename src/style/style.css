@@ -103,6 +103,12 @@
 }
 
 /* Bagian Responsive */
+@media screen and (max-width: 1200px) {
+    /* Bagian Best Sellers */
+    .best-seller-content p {
+        font-size: 15px;
+    }
+}
 @media screen and (max-width: 768px) {
     /* Bagian Nav */
     .navbar-nav {
@@ -152,6 +158,19 @@
         font-size: 18px;
     }
 
+    /* Bagian Best Sellers */
+    .best-title {
+        font-size: 30px;
+    }
+
+    .best-seller-content h5, .best-seller-content h4 {
+        font-size: 25px;
+    }
+
+    .best-seller-content p {
+        font-size: 18px;
+    }
+
     /* Bagian Service Main */
     .service-title {
         font-size: 30px;
@@ -193,6 +212,12 @@
     .service-content p {
         font-size: 16px;
     }
+
+    /* Bagian Best Sellers */
+    .best-seller-content p {
+        font-size: 16px;
+    }
+
 }
 
 /* Untuk Layar hp seperti Redmi note 8 */
@@ -222,6 +247,15 @@
     /* Bagian Service Main */
     .service-title {
         font-size: 25px;
+    }
+
+    /* Bagian Best Sellers */
+    .best-title {
+        font-size: 25px;
+    }
+
+    .best-seller-content h5, .best-seller-content h4 {
+        font-size: 21px;
     }
 
     /* Bagian Footer */
@@ -284,6 +318,12 @@
     .service-content h5 {
         font-size: 21px;
     }
+
+    /* Bagian Best Sellers */
+    .best-seller-content p {
+        font-size: 15px;
+    }
+
 
     /* Bagian Footer */
     .footer-bgColor label {

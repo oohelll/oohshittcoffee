@@ -1,0 +1,73 @@
+{
+    "Promo": [
+        {
+            "name" : "Coffee Latte",
+            "img": "https://th.bing.com/th/id/R.67a00e7433f4fec37f1c8e6d46e366e8?rik=uzFcsbARYvY%2bcg&riu=http%3a%2f%2fwww.homecrux.com%2fwp-content%2fuploads%2f2017%2f06%2fsimple-latte-art.jpg&ehk=mTYMYcEAaU5fVLjlgHHf7TPOXFX%2fv27Lkkufxr9tuug%3d&risl=&pid=ImgRaw&r=0",
+            "cardTitle": "Free Coffee Latte",
+            "cardText": "Every purchase more than 100k, will get 1 Free Coffee Latte"
+        },
+        {
+            "name" : "Burger",
+            "img": "https://th.bing.com/th/id/OIP.gkxgFPFg5d3Hn8MVk58oowHaHa?pid=ImgDet&rs=1",
+            "cardTitle": "Free Burger",
+            "cardText": "Every purchase more than 50k, will get 1 Free Burger"
+        },
+        {
+            "name" : "Pizzas",
+            "img": "https://veganedinburgh.com/wp-content/uploads/2020/02/Pizza-Flatlay-1024x1024.jpg",
+            "cardTitle": "Buy 1 Get 1",
+            "cardText": "Every purchase pizza margaretha will get 1 free pizza"
+        }
+    ],
+    "Service": [
+        {
+            "cardIcon" : "bi bi-bicycle",
+            "cardTitle" : "Delivery",
+            "cardText" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque neque aliquid architectolabore dolorem illo!"
+        },
+        {
+            "cardIcon" : "bi bi-cart2",
+            "cardTitle" : "Take Away",
+            "cardText" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque neque aliquid architectolabore dolorem illo!"
+        },
+        {
+            "cardIcon" : "bi bi-cup-straw",
+            "cardTitle" : "Dine In",
+            "cardText" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque neque aliquid architectolabore dolorem illo!"
+        }
+    ],
+    "Best_Sellers" : [
+        {
+            "dataBs" : "#frenchFries",
+            "id": "frenchFries",
+            "name" : "French Fries",
+            "cardText" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "price" : "Rp 10.000",
+            "img" : "https://pixel.nymag.com/imgs/daily/grub/2016/best-of-new-york/best-french-fries-houseman.w700.h700.jpg"
+        },
+        {
+            "dataBs" : "#pizzaBox",
+            "id" : "pizzaBox",
+            "name" : "Pizza Margaretha",
+            "cardText" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "price" : "Rp 80.000",
+            "img" : "https://th.bing.com/th/id/R.8e5dbab78ed588f9b72d528d52127b26?rik=ZnP%2fLNSJDOVTag&riu=http%3a%2f%2fredonline.cdnds.net%2fmain%2fthumbs%2f25905%2fpizza.jpg&ehk=2r61BnheYq7N2XPtIfpvKw9wQzuQm0qMW%2fG2UlCkiTQ%3d&risl=&pid=ImgRaw&r=0"
+        },
+        {
+            "dataBs" : "#coffeeLatte",
+            "id" : "coffeeLatte",
+            "name" : "Coffee Latte",
+            "cardText" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "price" : "Rp 35.000",
+            "img" : "https://th.bing.com/th/id/OIP.aRs7oXZcFiq3zaDpG1H_SQHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "dataBs" : "#friedRice",
+            "id" : "friedRice",
+            "name" : "Fried Rice",
+            "cardText" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "price" : "Rp 30.000",
+            "img" : "https://burmaspice.com/wp-content/uploads/2018/08/Japanese_Fried_Rice.jpg"
+        }
+    ]
+}
