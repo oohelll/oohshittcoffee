@@ -1,22 +1,32 @@
 {
     "Promo": [
         {
+            "category" : "bonus",
             "name" : "Coffee Latte",
             "img": "https://th.bing.com/th/id/R.67a00e7433f4fec37f1c8e6d46e366e8?rik=uzFcsbARYvY%2bcg&riu=http%3a%2f%2fwww.homecrux.com%2fwp-content%2fuploads%2f2017%2f06%2fsimple-latte-art.jpg&ehk=mTYMYcEAaU5fVLjlgHHf7TPOXFX%2fv27Lkkufxr9tuug%3d&risl=&pid=ImgRaw&r=0",
             "cardTitle": "Free Coffee Latte",
             "cardText": "Every purchase more than 100k, will get 1 Free Coffee Latte"
         },
         {
+            "category" : "bonus",
             "name" : "Burger",
             "img": "https://th.bing.com/th/id/OIP.gkxgFPFg5d3Hn8MVk58oowHaHa?pid=ImgDet&rs=1",
             "cardTitle": "Free Burger",
             "cardText": "Every purchase more than 50k, will get 1 Free Burger"
         },
         {
+            "category" : "bonus",
             "name" : "Pizzas",
             "img": "https://veganedinburgh.com/wp-content/uploads/2020/02/Pizza-Flatlay-1024x1024.jpg",
             "cardTitle": "Buy 1 Get 1",
             "cardText": "Every purchase pizza margaretha will get 1 free pizza"
+        },
+        {
+            "category" : "discount",
+            "name" : "Pizzas",
+            "img" : "https://stadiumpizzas.com/wp-content/uploads/2020/09/mexican-768x766.jpg",
+            "cardTitle" : "Free Discount 10%",
+            "cardText" : "Every Purchase pizza mushroom will get free discount 10%"
         }
     ],
     "Service": [

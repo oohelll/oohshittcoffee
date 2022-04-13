@@ -7,7 +7,8 @@ function main() {
         .then(response => response.json())
         .then(response => {
             const promo = response.Promo;
-            promo.map((p) => {
+            const promos = promo.slice(0, -1);
+            promos.map((p) => {
                 return rowPromo.innerHTML += `
                 <div class="col-11 col-sm-6 col-md-4 col-lg-3 hovered-card mb-5">
                     <div class="card">

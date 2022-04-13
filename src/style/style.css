@@ -57,7 +57,7 @@
     color: black;
 }
 
-/* Bagian Promo Main */
+/* Bagian Best Selers */
 .back-modal {
     background-color: rgba(0, 0, 0, 0.8);
 }
@@ -103,6 +103,232 @@
 }
 
 /* Bagian Responsive */
+@media screen and (min-width:1700px){
+    .title-section {
+        font-size: 35px;
+    }
+    /* Bagian Nav */
+    .navbar-index {
+        padding: 13px 0;
+    }
+
+    .navbar-index a {
+        font-size: 25px;
+    }
+
+    .navbar-nav a {
+        font-size: 21px;
+    }
+
+    /* Bagian Banner */
+    .banner {
+        height: 750px;
+    }
+
+    .h1-title {
+        font-size: 68px;
+    }
+
+    .p-title {
+        font-size: 33px;
+    }
+
+    .input-section {
+        margin: 0 21%;
+    }
+
+    .banner .form-control {
+        padding: 13px;
+    }
+
+    .banner .btn-customs {
+        padding: 13px 20px;
+    }
+
+    /* Bagian Promo */
+    .row-promo .hovered-card {
+        margin: 0 6% 0 0;
+    }
+    .row-promo .card {
+        width: 380px;
+    }
+    .card-title {
+        font-size: 29px;
+    }
+
+    .card-text {
+        font-size: 21px;
+    }
+
+    .promo-btn {
+        font-size: 22px;
+        padding: 10px 25px;
+    }
+
+    /* Bagian Service */
+    .service-icon {
+        width: 140px;
+        height: 140px;
+        border-radius: 80px;
+    }
+
+    .service-icon i {
+        font-size: 40px;
+    }
+
+    .service-content h5 {
+        font-size: 27px;
+    }
+
+    .service-content p {
+        font-size: 20px;
+    }
+
+    /* Bagian Best Seller */
+    .row-bestSellers .card {
+        width: 320px;
+    }
+
+    .btn-modal {
+        font-size: 22px;
+        padding: 10px 25px;
+    }
+
+    /* Bagian forms */
+    .title-reserv {
+        font-size: 30px;
+    }
+
+    .text-reserv {
+        font-size: 23px;
+    }
+
+    .form-section label  {
+        font-size: 19px;
+    }
+
+    .form-section input {
+        padding: 11px;
+    }
+
+    .btn-forms {
+        font-size: 19px;
+        font-size: 22px;
+        padding: 10px 25px;
+    }
+
+    /* Bagian Footer */
+    .contact-icon {
+        font-size: 28px;
+    }
+
+    .sub-section input{
+        padding: 12px;
+    }
+}
+
+@media screen and (min-width:1400px) and (max-width: 1700px){
+    /* Bagian Nav */
+    .navbar-index {
+        padding: 12px 0;
+    }
+
+    .navbar-index a {
+        font-size: 23px;
+    }
+
+    .navbar-nav a {
+        font-size: 19px;
+    }
+
+    /* Bagian Banner */
+    .banner {
+        height: 690px;
+    }
+
+    .h1-title {
+        font-size: 62px;
+    }
+
+    .p-title {
+        font-size: 28px;
+    }
+
+    .input-section {
+        margin: auto;
+    }
+
+    .banner .form-control {
+        padding: 11px;
+    }
+
+    .banner .btn-customs {
+        padding: 11px 17px;
+    }
+
+    /* Bagian Promo */
+    .card-title {
+        font-size: 26px;
+    }
+
+    .card-text {
+        font-size: 18px;
+    }
+
+    .promo-btn {
+        font-size: 19px;
+    }
+
+    /* Bagian Service */
+    .service-icon {
+        width: 100px;
+        height: 100px;
+    }
+
+    .service-content h5 {
+        font-size: 24px;
+    }
+
+    .service-content p {
+        font-size: 17px;
+    }
+
+    /* Bagian Best Seller */
+    .btn-modal {
+        font-size: 19px;
+    }
+
+    /* Bagian forms */
+    .title-reserv {
+        font-size: 28px;
+    }
+
+    .text-reserv {
+        font-size: 18px;
+    }
+
+    .form-section label  {
+        font-size: 18px;
+    }
+
+    .form-section input {
+        padding: 11px;
+    }
+
+    .btn-forms {
+        font-size: 19px;
+    }
+
+    /* Bagian Footer */
+    .contact-icon {
+        font-size: 26px;
+    }
+
+    .sub-section input{
+        padding: 11px;
+    }
+}
+
 @media screen and (max-width: 1200px) {
     /* Bagian Best Sellers */
     .best-seller-content p {
@@ -200,6 +426,15 @@
         font-size: 53px;
     }
 
+    /* Bagian Promo */
+    .card-title {
+        font-size: 22px;
+    }
+
+    .card-text {
+        font-size: 16px;
+    }
+
     /* Bagian Service Main */
     .service-title {
         font-size: 28px;
@@ -233,10 +468,6 @@
     /* Bagian Promo */
     .promo-title {
         font-size: 25px;
-    }
-
-    .card-text {
-        font-size: 16px;
     }
 
     .promo-btn {
@@ -303,7 +534,7 @@
 
     /* Bagian Promo */
     .card-title {
-        font-size: 20px;
+        font-size: 19px;
     }
     .card-text {
         font-size: 15px;
