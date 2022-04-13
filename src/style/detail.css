@@ -55,6 +55,66 @@
 }
 
 /* Bagian Responsive */
+@media screen and (min-width: 1700px) {
+    /* Bagian Nav */
+    .navbar-detail {
+        padding: 13px 0;
+    }
+
+    .navbar-detail a {
+        font-size: 25px;
+    }
+
+    .navbar-nav a {
+        font-size: 21px;
+    }
+
+    /* Bagian Product */
+    .detail-product h1 {
+        font-size: 50px;
+    }
+
+    .detail-product p {
+        font-size: 22px;
+    }
+
+    .btn-product {
+        font-size: 22px;
+        padding: 10px 25px;
+    }
+
+    /* Bagian Footer */
+    .contact-icon {
+        font-size: 26px;
+    }
+
+    .sub-section input{
+        padding: 11px;
+    }
+}
+@media screen and (min-width:1400px) and (max-width: 1700px) {
+    /* Bagian Nav */
+    .navbar-detail {
+        padding: 12px 0;
+    }
+
+    .navbar-detail a {
+        font-size: 23px;
+    }
+
+    .navbar-nav a {
+        font-size: 19px;
+    }
+
+    /* Bagian Footer */
+    .contact-icon {
+        font-size: 26px;
+    }
+
+    .sub-section input{
+        padding: 11px;
+    }
+}
 @media screen and (max-width: 576px) {
     /* Bagian Recomended */
     .img-fluid {

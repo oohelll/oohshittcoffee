@@ -71,6 +71,112 @@
     background-color:  #D88E35;
 }
 
+@media screen and (min-width: 1700px) {
+    /* Bagian Nav */
+    .navbar-promo {
+        padding: 13px 0;
+    }
+
+    .navbar-promo a {
+        font-size: 25px;
+    }
+
+    .navbar-nav a {
+        font-size: 21px;
+    }
+
+    /* Banner */
+    .banner {
+        height: 750px;
+    }
+
+    .h1-title {
+        font-size: 68px;
+    }
+
+    .p-title {
+        font-size: 33px;
+    }
+
+    /* Bagian Promo */
+    .hovered-card {
+        margin: 0 0% 0 0;
+    }
+
+    .card {
+        width: 320px;
+    }
+
+    .btn-promo {
+        font-size: 22px;
+    }
+
+    .card-title {
+        font-size: 29px;
+    }
+
+    .card-text {
+        font-size: 20px;
+    }
+
+    /* Bagian Footer */
+    .contact-icon {
+        font-size: 28px;
+    }
+
+    .sub-section input{
+        padding: 12px;
+    }
+}
+@media screen and (min-width: 1400px) and (max-width: 1700px) {
+    /* Bagian Nav */
+    .navbar-promo {
+        padding: 12px 0;
+    }
+
+    .navbar-promo a {
+        font-size: 23px;
+    }
+
+    .navbar-nav a {
+        font-size: 19px;
+    }
+
+    /* Banner */
+    .banner {
+        height: 690px;
+    }
+
+    .h1-title {
+        font-size: 62px;
+    }
+
+    .p-title {
+        font-size: 28px;
+    }
+
+    .btn-promo {
+        font-size: 19px;
+    }
+
+    .card-title {
+        font-size: 26px;
+    }
+
+    .card-text {
+        font-size: 18px;
+    }
+
+    /* Bagian Footer */
+    .contact-icon {
+        font-size: 26px;
+    }
+
+    .sub-section input{
+        padding: 11px;
+    }
+} 
+
 @media screen and (max-width: 768px) {
     /* Bagian Nav */
     .navbar-nav {
@@ -130,6 +236,15 @@
 
     .h1-title {
         font-size: 53px;
+    }
+
+    /* Bagian Promo */
+    .card-title {
+        font-size: 22px;
+    }
+
+    .card-text {
+        font-size: 16px;
     }
 }
 

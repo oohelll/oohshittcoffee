@@ -33,6 +33,63 @@
     background-color: #D88E35;
 }
 
+@media screen and (min-width: 1700px) {
+    /* Bagian Nav */
+    .navbar-basket {
+        padding: 13px 0;
+    }
+
+    .navbar-basket a {
+        font-size: 25px;
+    }
+
+    .navbar-nav a {
+        font-size: 21px;
+    }
+
+    /* Bagian Table */
+    table {
+        font-size: 28px;
+    }
+
+    .img-table {
+        width: 190px;
+    }
+
+    .checkout-btn {
+        font-size: 22px;
+        padding: 10px 25px;
+    }
+}
+
+@media screen and (min-width: 1400px) and (max-width: 1700px) {
+    /* Bagian Nav */
+    .navbar-basket {
+        padding: 12px 0;
+    }
+
+    .navbar-basket a {
+        font-size: 23px;
+    }
+
+    .navbar-nav a {
+        font-size: 19px;
+    }
+
+    /* Bagian Table */
+    table {
+        font-size: 25px;
+    }
+
+    .img-table {
+        width: 150px;
+    }
+
+    .checkout-btn {
+        font-size: 19px;
+    }
+}
+
 @media screen and (max-width: 768px) {
     /* Bagian Nav */
     .navbar-nav {

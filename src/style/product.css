@@ -90,6 +90,121 @@
 }
 
 /* Bagian Responsive */
+@media screen and (min-width: 1700px){
+    /* Bagian Nav */
+    .navbar-product {
+        padding: 13px 0;
+    }
+
+    .navbar-product a {
+        font-size: 25px;
+    }
+
+    .navbar-nav a {
+        font-size: 21px;
+    }
+
+    /* Bagian Banner */
+    .banner {
+        height: 750px;
+    }
+
+    .h1-title {
+        font-size: 68px;
+    }
+
+    .p-title {
+        font-size: 33px;
+    }
+
+    /* Bagian Product */
+    .title-category , .product-title {
+        font-size: 29px;
+    }
+
+    .list-group {
+        font-size: 20px;
+    }
+
+    .card-title {
+        font-size: 29px;
+    }
+
+    .card-text {
+        font-size: 19px;
+    }
+
+    .pagination {
+        font-size: 21px;
+    }
+
+    /* Bagian Footer */
+    .contact-icon {
+        font-size: 29px;
+    }
+
+    .sub-section input{
+        padding: 12px;
+    }
+}
+@media screen and (min-width: 1400px) and (max-width: 1700px) {
+    /* Bagian Nav */
+    .navbar-product {
+        padding: 12px 0;
+    }
+
+    .navbar-product a {
+        font-size: 23px;
+    }
+
+    .navbar-nav a {
+        font-size: 19px;
+    }
+
+    /* Bagian Banner */
+    .banner {
+        height: 690px;
+    }
+
+    .h1-title {
+        font-size: 62px;
+    }
+
+    .p-title {
+        font-size: 28px;
+    }
+
+    /* Bagian Product */
+    .title-category , .product-title {
+        font-size: 26px;
+    }
+
+    .list-group {
+        font-size: 18px;
+    }
+
+    .card-title {
+        font-size: 26px;
+    }
+
+    .card-text {
+        font-size: 18px;
+    }
+
+    .pagination {
+        font-size: 18px;
+    }
+
+    /* Bagian Footer */
+    .contact-icon {
+        font-size: 26px;
+    }
+
+    .sub-section input{
+        padding: 11px;
+    }
+}
+
 @media screen and (max-width: 1200px) {
     /* Bagian All Product */
     .card-modal {
